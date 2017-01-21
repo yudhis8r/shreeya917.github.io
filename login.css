@@ -1,0 +1,29 @@
+h1{
+margin-bottom: auto;
+    padding-bottom: inherit;
+    color:black;
+    background-color: white;
+}
+
+
+
+body{
+    margin-top:10%;
+    background-color: aqua;
+    background-image: url("picmusic.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+div {
+    background-color: transparent;
+    color: black;
+    padding: 20px;
+
+}
+footer{
+    background-color: whitesmoke;
+    color:black;
+    float:inherit;
+}
