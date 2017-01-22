@@ -1,15 +1,16 @@
 body{
-    background-color: darkgray;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
+    background-color:gray;
+    font-family: "Times New Roman", Times, serif;
+    font-size: larger;
+    padding:10px;
 }
 
 
-header {
-    background-color: lightgray;
+h1 {
+    background-color: black;
     height: 40px;
     text-align: center;
+    color:whitesmoke;
 
 }
 
@@ -25,9 +26,9 @@ h4{
     font-size: 150%;
     color: black;
 }
-}
+
 nav {
-    float: right;
+    float: left;
 
 }
 
@@ -66,4 +67,10 @@ div.right{
 }
 input {
     padding: 10px 20px;
+}
+footer {
+    position: relative;
+    text-align: center;
+    height: 30px;
+     background-color: white;
 }
